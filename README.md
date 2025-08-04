@@ -4,7 +4,8 @@ In this project, I analyzed and did an exploration of education inequality acros
 The following questions were analyzed and answered using sql queries:
 
 1. Is there a correlation between average test scores and funding per student?
-- There is no correlation between average test scores and funding per student. After running analysis, it was concluded that the average funding for students who scored 69.9% or less was about $14,972 whereas students who scored over a 70% was $15,336 showing only a $364 difference in funding for students who are failing compared to those who are passing.
+- There is no correlation between average test scores and funding per student.
+- After running analysis, it was concluded that the average funding for students who scored 69.9% or less was about $14,972 whereas students who scored over a 70% was $15,336 showing only a $364 difference in funding for students who are failing compared to those who are passing.
 
 2. Do schools with a higher percentage of low-income students tend to have lower test scores?
 - It does seem that the higher percentage of low income students there are at the school the lower the test score are. On average for schools that have a percentage of over 75% of the students being considered low income, the average score is between 40% and 50%. However  for schools that have a percentage of less than 25% of the students being considered low income, the average score is between 80% and 90%. It is important to note that these are the averages because after running analysis there some the display results that are complete opposite of the average.
