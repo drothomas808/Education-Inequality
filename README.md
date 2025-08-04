@@ -1,7 +1,7 @@
 # Education-Inequality
 In this project, I analyzed and did an exploration of education inequality across different states within the United States.
 
-The following questions were analyzed and answered using sql queries:
+- The following questions were analyzed and answered using sql queries:
 
 1. Is there a correlation between average test scores and funding per student?
 
