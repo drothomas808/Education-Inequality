@@ -23,7 +23,7 @@ The following questions were analyzed and answered using sql queries:
 - On the flip side there are some schools where only 50% of students have access to internet and the average test score was over a 75%.
 
 ## 5. What is the average funding per student for each school type and grade level?
-= After running an analysis, statistics show that for both private and charter schools, the most funding went towards elementary school students and the least amount funding went towards middle school students.
+- After running an analysis, statistics show that for both private and charter schools, the most funding went towards elementary school students and the least amount funding went towards middle school students.
 - However for public schools, elementary students received the least amount of funding and high school received the most amount.
 - It can be assumed that public schools receive more funding to prepare student for post high school education.
 
